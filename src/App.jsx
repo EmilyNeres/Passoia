@@ -1,8 +1,11 @@
 // aqui importamos os arquivos
 import Header from "./components/Header";
 import Banner from "./components/Banner";
-import Dicas from "./components/Dicas"
+import Categorias from "./components/Categorias"
 import Lancamentos from "./components/Lancamentos";
+import Novidades from "./components/Novidades"
+import Footer from "./components/Footer"
+
 
 //Arquivo principal
 
@@ -12,8 +15,10 @@ function App() {
     <>
     <Header/>
     <Banner/>
-    <Dicas/>
+    <Categorias/>
     <Lancamentos/>
+     <Novidades/>
+     <Footer/>
     </>
   )
 }

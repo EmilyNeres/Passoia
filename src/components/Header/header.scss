@@ -1,3 +1,7 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -13,8 +17,10 @@ header{
         flex-wrap: wrap;
 
         a{
+            font-family: "Poppins", sans-serif;
             text-decoration: none;
             color: #000000;
+           
         }
 
     }

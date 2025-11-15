@@ -1,11 +1,11 @@
-import "./dicas.scss"
+import "./categorias.scss"
 import Labios from "../../assets/labios.png"
 import Olhos from "../../assets/olhos.png"
 import Rosto from "../../assets/rosto.png"
 import Tendencia from "../../assets/tendencia.png"
 
 
-function Dicas(){
+function Categorias(){
     return(
         <section>
 
@@ -22,4 +22,4 @@ function Dicas(){
        </section>
     )
 }
-export default Dicas
+export default Categorias
