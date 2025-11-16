@@ -18,9 +18,15 @@ header{
 
         a{
             font-family: "Poppins", sans-serif;
+            font-size: 1.25rem;
             text-decoration: none;
             color: #000000;
            
+        }
+
+        a:hover{
+            font-size: 1.30rem;
+            color: #56465cdf;
         }
 
     }
